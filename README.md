@@ -1,4 +1,4 @@
-# Fraudulent-Transaction-Analysis
+# Fraudulent-Transaction-Analysis using CNN (Convolutional Neural Network) in Keras
 This has credit or debit card transactions predictive model to detect the fraud tranasaction with a good accuracy.
 ### Data Wrangling - Duplicate Transactions
 You will notice a number of what look like duplicated transactions in the data set. One type of duplicated transaction is a reversed transaction, where a purchase is followed by a reversal. Another example is a multi-swipe, where a vendor accidentally charges a customer's card multiple times within a short time span.
